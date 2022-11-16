@@ -71,7 +71,7 @@ content:
           I began working of this project as a UI Developer, implementing features and UIs, using <mark>C++</mark> and <mark>WPF</mark> (with the NoesisGUI layer for the interface).
           Later on the project, I swapped roles to become a Technical UI designer, helping iterations for faster for the designs and prototypes, and making the link between the teams thanks to my knowledge of the code base.
       - layout: top-middle
-        title: Divinity\: Original Sin II
+        title: Divinity Original Sin II
         link: divinity.game
         additional_links:
           - title:  sproogen/modern-resume-theme
